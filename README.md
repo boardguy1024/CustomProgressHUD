@@ -7,7 +7,4 @@
 ソースコードはProgressHUDのライブラリーを参考にしていますが、SVProgressHUDのCircleAnimationを実装する必要があったので　
 この、Animationだけ「SwiftUI」で簡単に実装できました。
 
-動画の参考はこちら
-https://www.youtube.com/watch?v=ZsE6YeNvhx0
-
 ![gif](https://media.giphy.com/media/9zOzk2BgWnse91UJNJ/giphy.gif)
